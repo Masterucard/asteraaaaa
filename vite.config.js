@@ -7,6 +7,6 @@ export default defineConfig({
     port: 3000,
     open: true
   },
-  base: process.env.NODE_ENV === 'production' ? './' : '/'
+  base: process.env.NODE_ENV === 'production' ? '/asteraaaaa/' : '/'
 })
 
